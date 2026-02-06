@@ -1,0 +1,29 @@
+============================================================
+SYSTEM EVALUATION REPORT
+============================================================
+
+[Query Q1] weather
+Relevant documents: {'Doc2', 'Doc1'}
+Retrieved documents (top-10):
+   1. Doc1     0.449248 YES
+   2. Doc5     0.223109 NO
+Precision values:
+  Precision@ 5: 0.2000
+  Precision@10: 0.1000
+
+[Query Q2] beach activities outdoor
+Relevant documents: {'Doc5', 'Doc1'}
+Retrieved documents (top-10):
+   1. Doc1     0.148792 YES
+   2. Doc9     0.036245 NO
+Precision values:
+  Precision@ 5: 0.2000
+  Precision@10: 0.1000
+
+[Query Q3] snow
+Relevant documents: {'Doc3', 'Doc1'}
+Retrieved documents (top-10):
+   1. Doc1     0.183637 YES
+Precision values:
+  Precision@ 5: 0.2000
+  Precision@10: 0.1000

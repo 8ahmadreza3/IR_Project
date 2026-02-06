@@ -1,0 +1,17 @@
+activity	activity,action,sport
+beach	shore,coast,seaside
+change	alter,modify,transform
+enjoy	like,love,appreciate
+meteorologist	weather forecaster,meteorology expert
+outdoor	outside,outdoors,exterior
+plan	schedule,arrange,organize
+predict	forecast,prognosticate,anticipate
+rain	precipitation,rainfall,wet
+relax	rest,relieve,unwind
+season	period,time,quarter
+snow	snowfall,snowstorm,blizzard
+sun	sunny,bright,clear
+temperature	heat,cold,warm
+unpredictable	erratic,unstable,variable
+weather	climate,temperature,condition
+wind	breeze,gust,storm
